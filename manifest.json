@@ -1,0 +1,11 @@
+{
+  "domain": "renault_megane",
+  "name": "Renault Megane",
+  "codeowners": [ "@epenet", "@reneboer" ],
+  "config_flow": true,
+  "documentation": "https://www.github.com/reneboer/renault_megane",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "loggers": [ "renault_api" ],
+  "version": "0.1.0"
+}
