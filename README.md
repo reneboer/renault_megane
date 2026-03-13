@@ -13,7 +13,7 @@ HA Renault Integration:
 - Add charge_start action with optional when parameter to specify a startDateTime
 - Add attributes for schedules, startDateTime, delay and dateTime (last update) to Chargin Mode sensor. These attributes are not stored in the HA Database.
 
-To install create the folder renault_megane in homeassistant/custom_components and restart HA. The add integration Renault Megane.
+To install create the folder renault_megane in homeassistant/custom_components, upload these files and restart HA. The add integration Renault Megane.
 
 The offical Renault API is found at https://github.com/hacf-fr/renault-api
 The office Renault Integration documentation is found at https://www.home-assistant.io/integrations/renault
